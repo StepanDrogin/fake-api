@@ -1,107 +1,107 @@
 {
   "products": [
     {
-      "image": "2.jpg",
+      "image": "1.jpg",
       "name": "Автохимия",
       "article": "А2"
     },
     {
-      "image": "3.jpg",
+      "image": "2.jpg",
       "name": "Аксессуары",
       "article": "А3"
     },
     {
-      "image": "4.jpg",
+      "image": "3.jpg",
       "name": "Выхлопные системы",
       "article": "А4"
     },
     {
-      "image": "5.jpg",
+      "image": "4.jpg",
       "name": "Двигатель",
       "article": "А5"
     },
     {
-      "image": "6.jpg",
+      "image": "5.jpg",
       "name": "Детали кузова",
       "article": "А6"
     },
     {
-      "image": "7.jpg",
+      "image": "6.jpg",
       "name": "Стекла/оптика",
       "article": "А7"
     },
     {
-      "image": "8.jpg",
+      "image": "7.jpg",
       "name": "Отделка салона",
       "article": "А8"
     },
     {
-      "image": "9.jpg",
+      "image": "8.jpg",
       "name": "Отопление/кондиционирование",
       "article": "А9"
     },
     {
-      "image": "10.jpg",
+      "image": "9.jpg",
       "name": "Ремни и ролики",
       "article": "А10"
     },
     {
-      "image": "11.jpg",
+      "image": "10.jpg",
       "name": "Рулевая система",
       "article": "А11"
     },
     {
-      "image": "12.jpg",
+      "image": "11.jpg",
       "name": "Система зажигания",
       "article": "А12"
     },
     {
-      "image": "13.jpg",
+      "image": "12.jpg",
       "name": "Система охлаждения",
       "article": "А13"
     },
     {
-      "image": "14.jpg",
+      "image": "13.jpg",
       "name": "Система питания",
       "article": "А14"
     },
     {
-      "image": "15.jpg",
+      "image": "14.jpg",
       "name": "Стеклоочистители/стеклоомыватели",
       "article": "А15"
     },
     {
-      "image": "16.jpg",
+      "image": "15.jpg",
       "name": "Стеклоподъемники",
       "article": "А16"
     },
     {
-      "image": "17.jpg",
+      "image": "16.jpg",
       "name": "Сцепление",
       "article": "А17"
     },
     {
-      "image": "18.jpg",
+      "image": "17.jpg",
       "name": "Трансмиссия",
       "article": "А18"
     },
     {
-      "image": "19.jpg",
+      "image": "18.jpg",
       "name": "Тормозная система",
       "article": "А19"
     },
     {
-      "image": "20.jpg",
+      "image": "19.jpg",
       "name": "Фильтра",
       "article": "А20"
     },
     {
-      "image": "21.jpg",
+      "image": "20.jpg",
       "name": "Ходовая часть",
       "article": "А21"
     },
     {
-      "image": "22.jpg",
+      "image": "21.jpg",
       "name": "Электрооборудование",
       "article": "А22"
     }
@@ -124,7 +124,7 @@
       "article": "B2"
     },
     {
-      "image": "1.jpg",
+      "image": "3.jpg",
       "name": "Детали кузова",
       "price": "260",
       "category": "Детали кузова",
@@ -132,7 +132,7 @@
       "article": "B3"
     },
     {
-      "image": "2.jpg",
+      "image": "4.jpg",
       "name": "Оптика и стекла",
       "price": "261",
       "catalogNumber": "96189586",
@@ -140,7 +140,7 @@
       "article": "B4"
     },
     {
-      "image": "3.jpg",
+      "image": "5.jpg",
       "name": "Отделка салона",
       "price": "262",
       "catalogNumber": "96189586",
@@ -158,7 +158,7 @@
       "article": "С1"
     },
     {
-      "image": "1.jpg",
+      "image": "2.jpg",
       "name": "Двигатель",
       "price": "260",
       "catalogNumber": "96189586",
@@ -166,7 +166,7 @@
       "article": "С2"
     },
     {
-      "image": "1.jpg",
+      "image": "3.jpg",
       "name": "Детали кузова",
       "price": "260",
       "catalogNumber": "96189586",
@@ -174,7 +174,7 @@
       "article": "С3"
     },
     {
-      "image": "1.jpg",
+      "image": "4.jpg",
       "name": "Оптика и стекла",
       "price": "260",
       "catalogNumber": "96189586",
@@ -182,7 +182,7 @@
       "article": "С4"
     },
     {
-      "image": "1.jpg",
+      "image": "5.jpg",
       "name": "Отделка салона",
       "price": "260",
       "catalogNumber": "96189586",
@@ -200,7 +200,7 @@
       "article": "D1"
     },
     {
-      "image": "1.jpg",
+      "image": "2jpg",
       "name": "Двигатель",
       "price": "260",
       "catalogNumber": "96189586",
@@ -208,7 +208,7 @@
       "article": "D2"
     },
     {
-      "image": "1.jpg",
+      "image": "3.jpg",
       "name": "Детали кузова",
       "price": "260",
       "catalogNumber": "96189586",
@@ -216,7 +216,7 @@
       "article": "D3"
     },
     {
-      "image": "1.jpg",
+      "image": "4.jpg",
       "name": "Оптика и стекла",
       "price": "260",
       "catalogNumber": "96189586",
@@ -224,7 +224,7 @@
       "article": "D4"
     },
     {
-      "image": "1.jpg",
+      "image": "5.jpg",
       "name": "Отделка салона",
       "price": "260",
       "catalogNumber": "96189586",
