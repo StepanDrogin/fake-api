@@ -1,538 +1,434 @@
 {
-   "chevrolet": [
+  "chevrolet": [
     {
       "image": "1.jpg",
       "name": "Выхлопная система Daewoo Lanos 1.3-1.5",
-      "price": "260",
-      "catalogNumber": "96189586",
       "category": "Выхлопная система",
       "article": "B1"
     },
     {
       "image": "2.jpg",
       "name": "Chevrolet lanos Глушитель дэу Ланос 1.5",
-      "price": "261",
-      "catalogNumber": "96189586",
       "category": "Выхлопная система",
       "article": "B2"
     },
     {
       "image": "3.jpg",
       "name": "Глушитель основной Lanos ЗАЗ Sens",
-      "price": "260",
       "category": "Выхлопная система",
-      "catalogNumber": "96189586",
       "article": "B3"
     },
     {
       "image": "4.jpg",
       "name": "Приемная труба Daewoo Lanos 1.3-1.5",
-      "price": "261",
-      "catalogNumber": "96189586",
       "category": "Выхлопная система",
       "article": "B4"
     },
     {
       "image": "4.jpg",
       "name": "Резонатор Daewoo Lanos Дэу Ланос 1.3 - 1.5",
-      "price": "261",
-      "catalogNumber": "96189586",
       "category": "Выхлопная система",
       "article": "B5"
     },
     {
       "image": "5.jpg",
       "name": "Пламегаситель Daewoo Lanos 1.3-1.5",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Выхлопная система",
       "article": "B6"
     },
     {
       "image": "5.jpg",
       "name": "Гидрокомпенсатор сонс 8-клапанов",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Двигатель",
       "article": "B13"
     },
     {
       "image": "5.jpg",
       "name": "Коллектор выпускной 1.5 8-клапанная",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Двигатель",
       "article": "B17"
     },
     {
       "image": "5.jpg",
       "name": "Крышка маслозаливной горловины винтовая",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Двигатель",
       "article": "B22"
     },
     {
       "image": "5.jpg",
       "name": "Крышка ремня грм 1.5 8-клапанов",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Двигатель",
       "article": "B23"
     },
     {
       "image": "5.jpg",
       "name": "Шланг сапуна 1.4, 1.5, 1.6",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Двигатель",
       "article": "B25"
     },
     {
       "image": "5.jpg",
       "name": "Заглушка противотуманной фары левой/правой",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Оптика и стекла",
       "article": "B26"
     },
     {
       "image": "5.jpg",
       "name": "Зеркало заднего вида",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Оптика и стекла",
       "article": "B28"
     },
     {
       "image": "5.jpg",
       "name": "Зеркало левое/правое",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Оптика и стекла",
       "article": "B29"
     },
     {
       "image": "5.jpg",
       "name": "Крышка зеркала левого/правого",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Оптика и стекла",
       "article": "B31"
     },
     {
       "image": "5.jpg",
       "name": "Указатель поворота в крыло",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Оптика и стекла",
       "article": "B33"
     },
     {
       "image": "5.jpg",
       "name": "Фара передняя левая/права без корректор/под корректор",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Оптика и стекла",
       "article": "B34"
     },
     {
       "image": "5.jpg",
-      "name": "Фонарь задний левый/правый",
-      "price": "262",
-      "catalogNumber": "96189586",
+      "name": "Фонарь задний левый",
       "category": "Оптика и стекла",
       "article": "B35"
     },
     {
       "image": "5.jpg",
+      "name": "Фонарь задний правый",
+      "category": "Оптика и стекла",
+      "article": "B36"
+    },
+    {
+      "image": "5.jpg",
       "name": "Блок управление отопителем (печки) / + кондиционера",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Отопление и кондиционирование",
       "article": "B37"
     },
     {
       "image": "5.jpg",
       "name": "Вентилятор кондиционера",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Отопление и кондиционирование",
       "article": "B38"
     },
     {
       "image": "5.jpg",
+      "name": "Втулка крепления радиатора кондиционера",
+      "category": "Отопление и кондиционирование",
+      "article": "B39"
+    },
+    {
+      "image": "5.jpg",
       "name": "Мотор печки (отопителя)",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Отопление и кондиционирование",
       "article": "B40"
     },
     {
       "image": "5.jpg",
+      "name": "Прокладка компрессора 1.5 литр",
+      "category": "Отопление и кондиционирование",
+      "article": "B41"
+    },
+    {
+      "image": "5.jpg",
       "name": "Радиатор кондиционера 1.5",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Отопление и кондиционирование",
       "article": "B42"
     },
     {
       "image": "5.jpg",
       "name": "Радиатор печки",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Отопление и кондиционирование",
       "article": "B43"
     },
     {
       "image": "5.jpg",
       "name": "Комплект грм",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Ремни и ролики",
       "article": "B44"
     },
     {
       "image": "5.jpg",
       "name": "Ремень генератора без гидроусилителя/ с гидроуситителем",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Ремни и ролики",
       "article": "B45"
     },
     {
       "image": "5.jpg",
       "name": "Ремень грм 1.5 8-клапанов",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Ремни и ролики",
       "article": "B46"
     },
     {
       "image": "5.jpg",
       "name": "Бачок гидроусилителя руля",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Рулевая система",
       "article": "B47"
     },
     {
       "image": "5.jpg",
+      "name": "Болт крепления рулевой тяги и наконечника",
+      "category": "Рулевая система",
+      "article": "B48"
+    },
+    {
+      "image": "5.jpg",
       "name": "Наконечник рулевой левый/правый",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Рулевая система",
       "article": "B49"
     },
     {
       "image": "5.jpg",
       "name": "Пыльник рулевой рейки",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Рулевая система",
       "article": "B50"
     },
     {
       "image": "5.jpg",
       "name": "Пыльник рулевой тяги правый/левый",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Рулевая система",
       "article": "B51"
     },
     {
       "image": "5.jpg",
       "name": "Шланг гидроусилителя от насоса",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Рулевая система",
       "article": "B52"
     },
     {
       "image": "5.jpg",
       "name": "Катушка зажигания",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система зажигания",
       "article": "B53"
     },
     {
       "image": "5.jpg",
+      "name": "Провода высоковольтные 1.5 литра 8-клапанов",
+      "category": "Система зажигания",
+      "article": "B54"
+    },
+    {
+      "image": "5.jpg",
       "name": "Свеча зажигания 1.5 8-клапанов",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система зажигания",
       "article": "B55"
     },
     {
       "image": "5.jpg",
       "name": "Бачок расширительный",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система охлаждения",
       "article": "B56"
     },
     {
       "image": "5.jpg",
       "name": "Вентилятор охлаждения",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система охлаждения",
       "article": "B57"
     },
     {
       "image": "5.jpg",
       "name": "Патрубок охлаждения",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система охлаждения",
       "article": "B58"
     },
     {
       "image": "5.jpg",
       "name": "Патрубок радиатора",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система охлаждения",
       "article": "B59"
     },
     {
       "image": "5.jpg",
       "name": "Помпа водяная",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система охлаждения",
       "article": "B60"
     },
     {
       "image": "5.jpg",
       "name": "Радиатор охлаждения без/с кондиционером",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система охлаждения",
       "article": "B61"
     },
     {
       "image": "5.jpg",
       "name": "Шланг системы охлаждения",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система охлаждения",
       "article": "B62"
     },
     {
       "image": "5.jpg",
       "name": "Бензонасос (насос топливный)",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система питания",
       "article": "B63"
     },
     {
       "image": "5.jpg",
       "name": "Воздуховод воздушного фильтра",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система питания",
       "article": "B64"
     },
     {
       "image": "5.jpg",
       "name": "Датчик уровня топлива",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система питания",
       "article": "B65"
     },
     {
       "image": "5.jpg",
       "name": "Шланг топливный",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Система питания",
       "article": "B66"
     },
     {
       "image": "5.jpg",
       "name": "Бачок омывателя",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Стеклоочистители и стеклоомыватели",
       "article": "B67"
     },
     {
       "image": "5.jpg",
       "name": "Мотор омывателя",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Стеклоочистители и стеклоомыватели",
       "article": "B68"
     },
     {
       "image": "5.jpg",
       "name": "Мотор стеклоочистителя",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Стеклоочистители и стеклоомыватели",
       "article": "B69"
     },
     {
       "image": "5.jpg",
       "name": "Переключатель стеклоочистителя",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Стеклоочистители и стеклоомыватели",
       "article": "B70"
     },
     {
       "image": "5.jpg",
       "name": "Щетка стеклоочистителя",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Стеклоочистители и стеклоомыватели",
       "article": "B71"
     },
     {
       "image": "5.jpg",
       "name": "Мотор стеклоподъемника",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Стеклоподъемники",
       "article": "B72"
     },
     {
       "image": "5.jpg",
       "name": "Ручка стеклоподъемника",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Стеклоподъемники",
       "article": "B73"
     },
     {
       "image": "5.jpg",
       "name": "Вилка КПП",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Сцепление и трансмиссия",
       "article": "B74"
     },
     {
       "image": "5.jpg",
       "name": "Вилка сцепления",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Сцепление и трансмиссия",
       "article": "B75"
     },
     {
       "image": "5.jpg",
       "name": "Диск сцепления",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Сцепление и трансмиссия",
       "article": "B76"
     },
     {
       "image": "5.jpg",
       "name": "Корзина сцепления",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Сцепление и трансмиссия",
       "article": "B76"
     },
     {
       "image": "5.jpg",
       "name": "Барабан тормозной задний",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Тормозная система",
       "article": "B77"
     },
     {
       "image": "5.jpg",
       "name": "Диск тормозной передний",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Тормозная система",
       "article": "B78"
     },
     {
       "image": "5.jpg",
       "name": "Колодки тормозные передние/задние",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Тормозная система",
       "article": "B80"
     },
     {
       "image": "5.jpg",
       "name": "Шланг тормозной",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Тормозная система",
       "article": "B81"
     },
     {
       "image": "5.jpg",
       "name": "Фильтр воздушный",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Фильтра",
       "article": "B83"
     },
     {
       "image": "5.jpg",
       "name": "Фильтр масляный",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Фильтра",
       "article": "B84"
     },
     {
       "image": "5.jpg",
       "name": "Фильтр салонный",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Фильтра",
       "article": "B85"
     },
     {
       "image": "5.jpg",
       "name": "Фильтр топливный",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Фильтра",
       "article": "B86"
     },
     {
       "image": "5.jpg",
       "name": "Амортизатор задний/передний",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Ходовая часть",
       "article": "B87"
     },
     {
       "image": "5.jpg",
       "name": "Генератор",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Электрооборудование",
       "article": "B88"
     },
     {
       "image": "5.jpg",
       "name": "Датчик давления масла",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Электрооборудование",
       "article": "B89"
     },
     {
       "image": "5.jpg",
       "name": "Датчик положения коленвала",
-      "price": "262",
-      "catalogNumber": "96189586",
       "category": "Электрооборудование",
       "article": "B90"
     }
